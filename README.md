@@ -16,6 +16,7 @@ This repository is organized into progressive modules:
 - Conditional statements
 - Loops and control flow
 - Functions and modular programming
+- Joins: string join, SQL-style data joins, set joins
 
 ### 2️⃣ Object-Oriented Programming (OOP)
 - Classes and objects
@@ -108,7 +109,7 @@ Instead of memorizing code, you'll focus on building **intuition** and **problem
 
 | Module | Topics |
 |--------|--------|
-| `01_python_basics` | Syntax, Variables, Operators, Conditionals, Loops, Functions |
+| `01_python_basics` | Syntax, Variables, Operators, Conditionals, Loops, Functions, Joins |
 | `02_oops` | Classes, Encapsulation, Inheritance, Polymorphism, Abstraction |
 | `03_data_structures` | Lists, Stacks, Queues, Linked Lists, Trees, Graphs |
 | `04_algorithms` | Searching, Sorting, Recursion, Backtracking |
